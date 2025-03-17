@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your **Podcast Transcriber** project. This README includes clear instructions, explanations, and formatting for easy readability.
-
----
-
 # 🎙️ Podcast Transcriber  
 
 **Podcast Transcriber** is a Python-based tool that extracts and transcribes audio from YouTube videos. It supports multiple workflows:  
